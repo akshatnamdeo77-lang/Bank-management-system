@@ -1,1 +1,0 @@
-check=int(input("tell your response:-"))
